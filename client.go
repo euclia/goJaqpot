@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/euclia/goJaqpot/dataset"
-	"github.com/euclia/goJaqpot/doa"
-	"github.com/euclia/goJaqpot/feature"
-	"github.com/euclia/goJaqpot/model"
-	"github.com/euclia/goJaqpot/models"
-	"github.com/euclia/goJaqpot/task"
+	"github.com/euclia/gojaqpot/dataset"
+	"github.com/euclia/gojaqpot/doa"
+	"github.com/euclia/gojaqpot/feature"
+	"github.com/euclia/gojaqpot/model"
+	"github.com/euclia/gojaqpot/models"
+	"github.com/euclia/gojaqpot/task"
 )
 
 const (

@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/euclia/goJaqpot/model"
-	"github.com/euclia/goJaqpot/models"
+	"github.com/euclia/gojaqpot/model"
+	"github.com/euclia/gojaqpot/models"
 )
 
 const (

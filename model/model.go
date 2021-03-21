@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/euclia/goJaqpot/models"
+	"github.com/euclia/gojaqpot/models"
 )
 
 const (
